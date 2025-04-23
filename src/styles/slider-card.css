@@ -1,0 +1,51 @@
+.slider-card {
+    position: relative;
+    width: 80%;
+    margin: 40px auto;
+  }
+  
+  .slider-card-container {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .slider-card-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transform: translateX(100%);
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slider-card-item.active {
+    transform: translateX(0);
+  }
+  
+  .slider-card-controls {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .slider-card-controls button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .slider-card-controls button:hover {
+    background-color: #3e8e41;
+  }
