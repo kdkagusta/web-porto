@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "../styles/slider-card.css";
 
-const SliderCard = ({ data }) => {
+const Sliders = ({ data }) => {
     const [currentIndex, setCurrentIndex] = useState(0);
 
     const handlePrev = () => {
@@ -37,4 +37,4 @@ const SliderCard = ({ data }) => {
     );
 }
 
-export default SliderCard
+export default Sliders
