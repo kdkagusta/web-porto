@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Web Templates",
+        "url": "/web-templates"
+    },
+    {
+        "id": 2,
+        "title": "Apps",
+        "url": "/apps"
+    },
+    {
+        "id": 3,
+        "title": "Repositories",
+        "url": "/repositories"
+    },
+    {
+        "id": 4,
+        "title": "Blogs",
+        "url": "/blogs"
+    },
+    {
+        "id": 5,
+        "title": "About",
+        "url": "/about"
+    }
+]

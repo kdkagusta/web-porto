@@ -32,7 +32,7 @@
 		"image": "https://ik.imagekit.io/ikmedia/backlit.jpg"
 	},
 	{
-		"id": 1,
+		"id": 5,
 		"title": "5 Tips to Improve Your Coding Skills",
 		"date": "April 10, 2025",
 		"summary": "Improve your developer mindset with these 5 practical tips you can start using today.",
@@ -40,7 +40,7 @@
 		"image": "https://ik.imagekit.io/ikmedia/backlit.jpg"
 	},
 	{
-		"id": 2,
+		"id": 6,
 		"title": "React vs Vue in 2025",
 		"date": "April 5, 2025",
 		"summary": "A fresh comparison of two leading frontend frameworks based on the latest updates.",
@@ -48,7 +48,7 @@
 		"image": "https://ik.imagekit.io/ikmedia/backlit.jpg"
 	},
 	{
-		"id": 3,
+		"id": 7,
 		"title": "Why Tailwind CSS is Still Winning",
 		"date": "March 28, 2025",
 		"summary": "Tailwind continues to dominate — here’s why developers are still loving it.",
@@ -56,7 +56,7 @@
 		"image": "https://ik.imagekit.io/ikmedia/backlit.jpg"
 	},
 	{
-		"id": 4,
+		"id": 8,
 		"title": "Why Tailwind CSS is Still Winning",
 		"date": "March 28, 2025",
 		"summary": "Tailwind continues to dominate — here’s why developers are still loving it.",

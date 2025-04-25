@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
             <Header />
 
             {/* Body */}
-            <main className="flex-grow p-6 bg-gray-100">
+            <main>
                 {children}
             </main>
 
@@ -21,3 +21,4 @@ const Layout = ({ children }) => {
 };
 
 export default Layout;
+// flex-grow p-6 bg-gray-100

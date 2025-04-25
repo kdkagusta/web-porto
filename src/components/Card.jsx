@@ -1,6 +1,6 @@
 const Card = ({ title, description, image, link }) => {
     return (
-        <div className="card" style={{width: 18}}>
+        <div className="card">
             <img src={image} className="card-img-top" alt={title} />
                 <div className="card-body">
                     <h5 className="card-title">{title}</h5>
